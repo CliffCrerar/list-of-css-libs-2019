@@ -1,3 +1,7 @@
+<style>
+#header{display:none}
+</style>
+
 # 2019 List of CSS Libraries
 
 ### Great CSS Libraries:
