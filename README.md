@@ -21,6 +21,12 @@
 [Nebular](https://akveo.github.io/nebular/)
 [Bit](https://bit.dev/)
 [Clarity](https://clarity.design/)
+[NXG Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
+[NG Bootsrap](https://ng-bootstrap.github.io/#/home) not the same as aboe
+[Onsen](https://onsen.io/angular2/)
+[Vaadin](https://vaadin.com/tutorials/using-web-components-in-angular)
+[NG Semantic UI](https://ng-semantic.herokuapp.com/#/)
+[NG Zorro](https://ng.ant.design/docs/introduce/en)
 
 > These will work but are not really preferable if your goal is custom design, if your goal is quick implemnentation of functionality with an interface that is responsive and looks good with minimal customisation then these are for you.
 
