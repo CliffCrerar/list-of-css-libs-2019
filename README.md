@@ -1,8 +1,10 @@
+# 2019 List of CSS Libraries
+
 <style>
-#header{display:none}
+  .credits,.right,#header{display:none;}
+  .page-by{text-align: right;}
 </style>
 
-# 2019 List of CSS Libraries
 
 ### Great CSS Libraries:
 
