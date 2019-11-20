@@ -2,16 +2,16 @@
 
 ### Cliff recommends:
 
-[Official Material Design (By Google)](https://material.io/develop/web/)
-[Tailwind](
-[Buddy](https://buddycss.com/component-collapse.html)
-[Material(Library name)](https://daemonite.github.io/material/docs/4.1/material/buttons/)
-[Materialize](https://materializecss.com/)
-[NG Prime](https://www.primefaces.org/primeng/#/)
-[Material Design Lite](https://getmdl.io/)
-[MUI](muicss.com)
-[Surface](https://mildrenben.github.io/surface/)
-[MDB (Material Design Bootstrap)](https://mdbootstrap.com/freebies/angular/vs-code-snippets/)
+- [Official Material Design (By Google)](https://material.io/develop/web/)
+- [Tailwind](
+- [Buddy](https://buddycss.com/component-collapse.html)
+- [Material(Library name)](https://daemonite.github.io/material/docs/4.1/material/buttons/)
+- [Materialize](https://materializecss.com/)
+- [NG Prime](https://www.primefaces.org/primeng/#/)
+- [Material Design Lite](https://getmdl.io/)
+- [MUI](muicss.com)
+- [Surface](https://mildrenben.github.io/surface/)
+- [MDB (Material Design Bootstrap)](https://mdbootstrap.com/freebies/angular/vs-code-snippets/)
 
 > These will work but are not really preferable if your goal is custom design, if your goal is quick implemnentation of functionality with an interface that is responsive and looks good with minimal customisation then these are for you:
 
@@ -19,15 +19,15 @@ https://material.angular.io/
 
 # CSS UI Paint libriries
 
-[Sparkbox](https://seesparkbox.com/resources)
-[30 seconds of CSS](https://css.30secondsofcode.org/)
-[Grid go Flex](https://www.gridtoflex.com/)
-[Instagram CSS](https://picturepan2.github.io/instagram.css/)
-[Splitting](https://splitting.js.org/)
-[Katana](https://github.com/vladocar/Katana)
-[Cirrus](https://spiderpig86.github.io/Cirrus/)
-[Frow](https://frowcss.com/index.html)
-[Biomatic](https://github.com/moonrhythm/biomatic)
+- [Sparkbox](https://seesparkbox.com/resources)
+- [30 seconds of CSS](https://css.30secondsofcode.org/)
+- [Grid go Flex](https://www.gridtoflex.com/)
+- [Instagram CSS](https://picturepan2.github.io/instagram.css/)
+- [Splitting](https://splitting.js.org/)
+- [Katana](https://github.com/vladocar/Katana)
+- [Cirrus](https://spiderpig86.github.io/Cirrus/)
+- [Frow](https://frowcss.com/index.html)
+- [Biomatic](https://github.com/moonrhythm/biomatic)
 
 
 
