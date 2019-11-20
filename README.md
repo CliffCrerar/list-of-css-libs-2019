@@ -1,8 +1,10 @@
 # 2019 List of CSS Libraries
 
-### Cliff recommends:
+### Great CSS Libraries:
 
 - [Tailwind](https://tailwindcss.com/)
+- [UIKit](https://getuikit.com/)
+- [UIKit 2](https://getuikit.com/v2/)
 - [Official Material Design (By Google)](https://material.io/develop/web/)
 - [Buddy](https://buddycss.com/component-collapse.html)
 - [Material(Library name)](https://daemonite.github.io/material/docs/4.1/material/buttons/)
@@ -13,11 +15,16 @@
 - [Surface](https://mildrenben.github.io/surface/)
 - [MDB (Material Design Bootstrap)](https://mdbootstrap.com/freebies/angular/vs-code-snippets/)
 
-> These will work but are not really preferable if your goal is custom design, if your goal is quick implemnentation of functionality with an interface that is responsive and looks good with minimal customisation then these are for you:
+### Prebuild components libraries:
 
-https://material.angular.io/
+[Angular Material](https://material.angular.io/)
+[Nebular](https://akveo.github.io/nebular/)
+[Bit](https://bit.dev/)
+[Clarity](https://clarity.design/)
 
-# CSS UI Paint libriries
+> These will work but are not really preferable if your goal is custom design, if your goal is quick implemnentation of functionality with an interface that is responsive and looks good with minimal customisation then these are for you.
+
+# CSS Libraries with a different flavour
 
 - [Sparkbox](https://seesparkbox.com/resources)
 - [30 seconds of CSS](https://css.30secondsofcode.org/)
@@ -29,33 +36,31 @@ https://material.angular.io/
 - [Frow](https://frowcss.com/index.html)
 - [Biomatic](https://github.com/moonrhythm/biomatic)
 
-
-
 # CSS generators
 
-[How CSS works](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8/)
-[100 Days of CSS](https://100dayscss.com/)
-[FE Design Checklits](https://github.com/thedaviddias/Front-End-Design-Checklist)
-[Learn Flexbox](https://www.learnflexbox.org/)
-[What is modular Flexbox](https://spaceninja.com/2018/09/18/what-is-modular-css/)
-[Atomic Bulldog](https://vinceumo.github.io/atomic-bulldog-grid/)
-[Half-tone Effect](https://marco.blog/en/2018/02/pure-css-halftone-effect/)
-[CSS Generators](https://basicscroll.electerious.com/)
-[SVG Loader](https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders)
-[Boilerform](https://boilerform.design/)
-[Epic Spinner](https://epic-spinners.epicmax.co/)
-[NZBIN Spinners](https://nzbin.github.io/three-dots/)
-[Repaintless.css](https://github.com/szynszyliszys/repaintless)
-[Scroll-out](https://scroll-out.github.io/)
-[Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/)
-[Grid Layout](https://grid.layoutit.com/)
-[CSS GR](https://cssgr.id/)
-[Triangularify](https://trianglify.io/)
-[Ins GRID](https://ingrid.guide/)
-[Duo Tone](https://cssduotone.com/)
-[Fancy border radius](https://9elements.github.io/fancy-border-radius/)
-[AnimTrip](httpshttps://github.com/sanjayaharshana/AnimTrap)
-[Simpler Bar](https://grsmto.github.io/simplebar/)
+- [How CSS works](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8/)
+- [100 Days of CSS](https://100dayscss.com/)
+- [FE Design Checklits](https://github.com/thedaviddias/Front-End-Design-Checklist)
+- [Learn Flexbox](https://www.learnflexbox.org/)
+- [What is modular Flexbox](https://spaceninja.com/2018/09/18/what-is-modular-css/)
+- [Atomic Bulldog](https://vinceumo.github.io/atomic-bulldog-grid/)
+- [Half-tone Effect](https://marco.blog/en/2018/02/pure-css-halftone-effect/)
+- [CSS Generators](https://basicscroll.electerious.com/)
+- [SVG Loader](https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders)
+- [Boilerform](https://boilerform.design/)
+- [Epic Spinner](https://epic-spinners.epicmax.co/)
+- [NZBIN Spinners](https://nzbin.github.io/three-dots/)
+- [Repaintless.css](https://github.com/szynszyliszys/repaintless)
+- [Scroll-out](https://scroll-out.github.io/)
+- [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/)
+- [Grid Layout](https://grid.layoutit.com/)
+- [CSS GR](https://cssgr.id/)
+- [Triangularify](https://trianglify.io/)
+- [Ins GRID](https://ingrid.guide/)
+- [Duo Tone](https://cssduotone.com/)
+- [Fancy border radius](https://9elements.github.io/fancy-border-radius/)
+- [AnimTrip](https://github.com/sanjayaharshana/AnimTrap)
+- [Simpler Bar](https://grsmto.github.io/simplebar/)
 
 # CSS Tools
 
@@ -68,6 +73,5 @@ https://material.angular.io/
 [Solar System](https://codepen.io/jcoulterdesign/full/ZxXbeP/)
 [Snakes and ladders](https://codepen.io/alvaromontoro/pen/gjWPNW)
 
-# other
 
 [Cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)
