@@ -98,4 +98,4 @@
 - [Cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)
 
 <div class="page-by">
-  <small>xCurated by <a href="cliff-crerar.tech" target="_blank">Cliff Crerar</a></small><div>
+  <small>Curated by <a href="cliff-crerar.tech" target="_blank">Cliff Crerar</a></small><div>
