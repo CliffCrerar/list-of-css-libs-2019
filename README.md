@@ -17,6 +17,8 @@
 
 ### Prebuild components libraries:
 
+> These will work but are not really preferable if your goal is custom design, if your goal is quick implemnentation of functionality with an interface that is responsive and looks good with minimal customisation then these are for you.
+
 [Angular Material](https://material.angular.io/)
 [Nebular](https://akveo.github.io/nebular/)
 [Bit](https://bit.dev/)
@@ -28,9 +30,10 @@
 [NG Semantic UI](https://ng-semantic.herokuapp.com/#/)
 [NG Zorro](https://ng.ant.design/docs/introduce/en)
 
-> These will work but are not really preferable if your goal is custom design, if your goal is quick implemnentation of functionality with an interface that is responsive and looks good with minimal customisation then these are for you.
 
 # CSS Libraries with a different flavour
+
+> Unconventional approach to visual applications development using css classes.
 
 - [Sparkbox](https://seesparkbox.com/resources)
 - [30 seconds of CSS](https://css.30secondsofcode.org/)
@@ -43,6 +46,8 @@
 - [Biomatic](https://github.com/moonrhythm/biomatic)
 
 # CSS generators
+
+> Online apps that generate the CSS for you.
 
 - [How CSS works](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8/)
 - [100 Days of CSS](https://100dayscss.com/)
@@ -70,10 +75,14 @@
 
 # CSS Tools
 
+> Tools that solve CSS problems
+
 [Purgecss](https://www.purgecss.com/)
 [Cheat Sheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
 
 # CSS Examples
+
+> Online CSS examples
 
 [Air Bomb](https://codepen.io/chaofix/full/oegBEJ/)
 [Solar System](https://codepen.io/jcoulterdesign/full/ZxXbeP/)
