@@ -77,16 +77,18 @@
 
 > Tools that solve CSS problems
 
-[Purgecss](https://www.purgecss.com/)
-[Cheat Sheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
+- [Purgecss](https://www.purgecss.com/)
+- [Cheat Sheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
 
 # CSS Examples
 
 > Online CSS examples
 
-[Air Bomb](https://codepen.io/chaofix/full/oegBEJ/)
-[Solar System](https://codepen.io/jcoulterdesign/full/ZxXbeP/)
-[Snakes and ladders](https://codepen.io/alvaromontoro/pen/gjWPNW)
+- [Air Bomb](https://codepen.io/chaofix/full/oegBEJ/)
+- [Solar System](https://codepen.io/jcoulterdesign/full/ZxXbeP/)
+- [Snakes and ladders](https://codepen.io/alvaromontoro/pen/gjWPNW)
 
+#### CHEAT SHEET
+- [Cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)
 
-[Cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)
+<div>Curated by <a href="cliff-crerar.tech" target="_blank">Cliff Crerar<a/><div>
